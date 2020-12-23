@@ -2,13 +2,21 @@
 
 You know, a Christmas tree on Bash :)
 
-![Screenshot](./screenshot.png?raw=true)
+![Screenshot](./sapinBASH.gif)
+
+# FORK OF
+ https://github.com/sergiolepore/ChristBASHTree.git
+
 
 # Usage
 
 Via cURL:
 
 ```
+# French version
+curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-FR.sh | bash
+
+
 # English version
 curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
 
@@ -19,6 +27,9 @@ curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-E
 Via Wget:
 
 ```
+# French version
+wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
+
 # English version
 wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
 
@@ -53,6 +64,7 @@ Only GNU/Linux and Unix flavors.
 
 ## What OS are you using?
 
+DEBIAN SID
 Ubuntu 17.10.
 
 ## What about your terminal emulator?
