@@ -40,14 +40,14 @@ wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/t
 Docker:
 
 ```
-docker pull sergiolepore/christbashtree:latest
-docker run -it sergiolepore/christbashtree:latest
+docker pull CyrilleBiot/ChristBASHTree:latest
+docker run -it CyrilleBiot/ChristBASHTree:latest
 ```
 
 Git clone and execute:
 
 ```
-git clone https://github.com/sergiolepore/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
+git clone https://github.com/CyrilleBiot/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-FR.sh
 ```
 
 __Enjoy!__
