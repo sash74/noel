@@ -28,7 +28,7 @@ Via Wget:
 
 ```
 # French version
-wget -qO-https://raw.githubusercontent.com/CyrilleBiot/ChristBASHTree/master/tree-FR.sh | bash
+wget -qO- https://raw.githubusercontent.com/CyrilleBiot/ChristBASHTree/master/tree-FR.sh | bash
 
 # English version
 wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
