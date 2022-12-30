@@ -1,4 +1,4 @@
-#!/bin/bash
+/bin/bash
  = $espace
 trap "tput reset; tput cnorm; exit" 2
 clear
